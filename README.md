@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
