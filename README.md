@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [3870-count-commas-in-range](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Array
