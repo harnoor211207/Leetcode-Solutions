@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0836-rectangle-overlap](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
