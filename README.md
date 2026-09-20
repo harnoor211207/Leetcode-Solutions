@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [3498-reverse-degree-of-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
