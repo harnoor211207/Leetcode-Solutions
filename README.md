@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
