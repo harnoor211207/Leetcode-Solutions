@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0836-rectangle-overlap](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
