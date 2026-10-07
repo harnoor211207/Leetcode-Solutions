@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1901-find-a-peak-element-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1901-find-a-peak-element-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Interactive
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1901-find-a-peak-element-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
@@ -155,5 +158,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
