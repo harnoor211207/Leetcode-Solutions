@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Array
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1901-find-a-peak-element-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Interactive
