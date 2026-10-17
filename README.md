@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1446-consecutive-characters](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1446-consecutive-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2278-percentage-of-letter-in-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Database
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
