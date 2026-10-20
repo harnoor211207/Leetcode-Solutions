@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0299-bulls-and-cows](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0299-bulls-and-cows](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 ## Geometry
 |  |
