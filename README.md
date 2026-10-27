@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
