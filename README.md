@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Array
