@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Database
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
