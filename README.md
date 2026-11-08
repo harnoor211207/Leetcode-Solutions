@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
