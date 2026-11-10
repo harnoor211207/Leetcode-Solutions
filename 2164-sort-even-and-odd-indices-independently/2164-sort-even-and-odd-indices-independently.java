@@ -17,9 +17,15 @@ class Solution {
         for(int i=0;i<nums.length;i++)
         {
             if(i%2==0)
-            nums[i]=even.get(e++);
+            {
+            nums[i]=even.get(e);
+            e++;
+            }
             else
-            nums[i]=odd.get(o++);
+            {
+            nums[i]=odd.get(o);
+            o++;
+            }
         }
     return nums;
     }
