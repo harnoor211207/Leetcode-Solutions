@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
