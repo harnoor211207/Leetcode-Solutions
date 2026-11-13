@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3467-transform-array-by-parity](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [3467-transform-array-by-parity](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Geometry
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3467-transform-array-by-parity](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
