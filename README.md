@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
 | [0836-rectangle-overlap](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3870-count-commas-in-range](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3467-transform-array-by-parity](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Heap (Priority Queue)
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/harnoor211207/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Counting Sort
 |  |
 | ------- |
